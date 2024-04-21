@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homelabs on Bitácora Del Admin</title>
-    <link>https://example.org/homelab/</link>
+    <link>https://fvargasdev.github.io/BitacoraDelAdminPublic/homelab/</link>
     <description>Recent content in Homelabs on Bitácora Del Admin</description>
     <generator>Hugo -- 0.125.2</generator>
     <language>es</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fvargasdev.github.io/BitacoraDelAdminPublic/homelab/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

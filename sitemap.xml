@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://fvargasdev.github.io/BitacoraDelAdminPublic/</loc>
     <lastmod>2024-04-21T11:53:11+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/bitacora/</loc>
+    <loc>https://fvargasdev.github.io/BitacoraDelAdminPublic/bitacora/</loc>
     <lastmod>2024-04-21T11:53:11+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/homelab/</loc>
+    <loc>https://fvargasdev.github.io/BitacoraDelAdminPublic/homelab/</loc>
     <lastmod>2024-04-21T11:53:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://fvargasdev.github.io/BitacoraDelAdminPublic/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://fvargasdev.github.io/BitacoraDelAdminPublic/tags/</loc>
   </url>
 </urlset>
